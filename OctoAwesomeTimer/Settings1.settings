@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="TimerOctoAwesome" GeneratedClassName="Settings1" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="_CommitMessagebox" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_Farbverlauf" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_Opacity" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">80</Value>
+    </Setting>
+    <Setting Name="_Random" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">35</Value>
+    </Setting>
+    <Setting Name="_RandomColor" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_RandomIntervall" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="_Red" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="_ShowHours" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_ShowMiliseconds" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="_Yellow" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">20</Value>
+    </Setting>
+    <Setting Name="WindowLocation" Type="System.Drawing.Point" Scope="User" Roaming="false">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="WindowSize" Type="System.Drawing.Size" Scope="User" Roaming="false">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
